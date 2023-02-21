@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LxbLti+q/8gjajXsDqJYzgkespfCfIHe2c36aO+IeosRztGkadeA5QwkDygAqJScixCCMwE9EdIrkWxHE+SP8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Angel\\RiderProjects\\TecNM.Practica3\\TecNM.Practica3.Core\\TecNM.Practica3.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Angel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Angel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
